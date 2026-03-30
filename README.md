@@ -82,6 +82,7 @@ Goal detection and reset system
 These are core mechanics used in most football/soccer games.
 
 📸 Screenshots
+
 <img width="663" height="326" alt="Screenshot 2026-03-31 001406" src="https://github.com/user-attachments/assets/ae5e06ea-e717-4bd2-a3c8-4d4ea9be9403" />
 
 <img width="665" height="323" alt="Screenshot 2026-03-31 001335" src="https://github.com/user-attachments/assets/adbeaac8-d700-4931-a0d5-b008388328f5" />
